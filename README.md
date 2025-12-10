@@ -35,21 +35,11 @@ Ce dépôt contient une **implémentation complète, propre et optimisée** du T
 | `requirements.txt` | Dépendances exactes |
 | `figures/` | Toutes les visualisations générées |
 
-## Lancer le projet en 3 secondes
+## Lancer le projet en quelques cliques
 
 Clique simplement sur le badge Colab en haut → tout s’exécute automatiquement :
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TON_PSEUDO/TP-Random-Forest-Breast-Cancer/blob/main/Random_Forest_TP_BreastCancer_Completed.ipynb)
 
 Aucun téléchargement, aucune installation nécessaire !
-
-## Pourquoi ce dataset ?
-
-| Dataset | Taille | RAM nécessaire | Temps d’exécution | Recommandé ? |
-|-------|--------|----------------|-------------------|--------------|
-| Breast Cancer (ce projet) | 569 lignes | < 500 Mo | < 1 min | 5 stars |
-| Credit Card Fraud | 284k lignes | 8–16 Go | 10–30 min | Only with downsampling |
-| Forest Cover | 581k lignes | > 20 Go | Très lent | Not recommended |
-
-→ **Breast Cancer** = le choix parfait pour un rendu rapide, propre et sans bug.
 
